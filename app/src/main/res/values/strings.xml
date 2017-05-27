@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AplicacionFormulario</string>
+    <string name="hint_tiet_nombre">Nombre Completo</string>
+    <string name="hint_tiet_telefono">Telefono</string>
+    <string name="hint_tiet_email">Email</string>
+    <string name="hint_tiet_descripcion">Descripcion</string>
+    <string name="btn_siguiente">Siguiente</string>
+    <string name="btn_editar">Editar Datos</string>
+    <string name="tv_confirmar">Confirmar Datos</string>
+    <string name="tv_titulo">Formulario de Datos</string>
+    <string name="tv_fecha">Fecha de Nacimiento</string>
+    <string name="pnombre">nombre</string>
+    <string name="pfecha">dd-mm-yyyy</string>
+    <string name="ptelefono">telefono</string>
+    <string name="pemail">email</string>
+    <string name="pdescripcion">descripcion</string>
+
+
+</resources>
